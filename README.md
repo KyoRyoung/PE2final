@@ -1,5 +1,5 @@
 # PE2final
-Programming for Engineer Ⅱ   
+**Programming for Engineer Ⅱ**   
 data from a Si semiconductor
 
 ## Contents
@@ -14,9 +14,9 @@ data from a Si semiconductor
 2023.03.01-
 
 ## Info
-- 'python'
+python
 
-## 멤버
+## Member
 2019030455 고주환   
 2019052415 윤석현   
 2019080973 이동현   
