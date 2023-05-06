@@ -3,18 +3,18 @@
 data from a Si semiconductor
 
 ## Contents
-- 개발 기간
+- Development time
 - Info (개발 환경)
-- 멤버 구성
-- project
-- code
+- Member
+- Project
+- Code
 - Requirements
 
-## 개발 기간
+## Development time
 2023.03.01-
 
 ## Info
-python
+- python
 
 ## Member
 2019030455 고주환   
@@ -22,15 +22,14 @@ python
 2019080973 이동현   
 2020027192 김교령
 
-## project 설명
-- dat: data
-- doc:
-- ppt:
-- res:
-- src:
-- .gitignore:
-- README.md:
-- run.py:
+## project
+- dat: a folder contains XML data
+- doc: a folder contains documentation- Jupyter notebook file describing data analysis results and powerpoint file for presentation
+- res: a folder contains result figures and csv files
+- src: a folder contains codes of the software
+- .gitignore: : data is confidential so it should not be uploaded and published.
+- README.md: brief introduction of this software repository
+- run.py: execution python file of this software
 (structure pic?)
 
 ## code
