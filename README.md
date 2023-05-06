@@ -29,7 +29,7 @@ data from a Si semiconductor
 - src: a folder contains codes of the software
 - .gitignore: : data is confidential so it should not be uploaded and published.
 - README.md: brief introduction of this software repository
-- run.py: execution python file of this software
+- run.py: execution python file of this software   
 (structure pic?)
 
 ## code
