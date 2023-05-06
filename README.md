@@ -22,7 +22,7 @@ data from a Si semiconductor
 2019080973 이동현   
 2020027192 김교령
 
-## project
+## Project
 - dat: a folder contains XML data
 - doc: a folder contains documentation- Jupyter notebook file describing data analysis results and powerpoint file for presentation
 - res: a folder contains result figures and csv files
@@ -32,7 +32,7 @@ data from a Si semiconductor
 - run.py: execution python file of this software   
 (structure pic?)
 
-## code
+## Code
 - IV
 
 - cm
