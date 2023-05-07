@@ -7,12 +7,12 @@ This software is programed to analyze measured data of semiconductor wafers.
 * * *
 
 ## Contents
-1. Development time   
-2. Info
-3. Collaborators
-4. Project
-5. Instructions
-6. Requirements
+1. [Development time](#Development-time)   
+2. [Info](#Info)
+3. [Collaborators](#Collaborators)
+4. [Project](#Project)
+5. [Instructions](#Instructions)
+6. [Requirements](#Requirements)
 * * *
 
 ## Development time
