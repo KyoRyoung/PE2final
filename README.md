@@ -1,6 +1,9 @@
 # PE2_C
 **Programming for Engineer Ⅱ**   
-This software is programed to analyze mesured data of semiconductor wafers.
+
+
+## Overview
+This software is programed to analyze measured data of semiconductor wafers.
 * * *
 
 ## Contents
@@ -36,19 +39,29 @@ This software is programed to analyze mesured data of semiconductor wafers.
 - .gitignore: : data is confidential so it should not be uploaded and published
 - README.md: brief introduction of this software repository
 - run.py: execution python file of this software   
-(structure pic?)
+
+![image](https://user-images.githubusercontent.com/127359402/236680428-3d8cf99c-d164-4a9d-a818-274bbd423bff.png)
+
 * * *
 
 ## Instructions
-1.
+1. Run run.py
+2. Select the desired device type (ex. `LMZC`, `LMZO`, `LMZ`)
+3. Enter the desired wafer number in the form "D##" (ex. `D07`, `D08`, `D23`, `D24`, `all`)
+4. Enter Wafer's coordinates in the form of "#,#" (ex. `0,0`)
+5. Enter y/n whether to see the data as png file or not
+6. Enter y/n whether to save the data as png file or not
 * * *
 
 ## Requirements
 - NumPy
 - xml.etree.ElementTree
 - matplotlib
-- sklearn
+- scikit-learn
 - pandas
+- lmfit
+- tqdm
+- glob
 
 To install all requirements, use the following command.   
 ```
