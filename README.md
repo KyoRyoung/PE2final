@@ -1,10 +1,10 @@
-# PE2final
+# PE2_C
 **Programming for Engineer Ⅱ**   
-This software can analyze mesured data of semiconductor wafers.
+This software is programed to analyze mesured data of semiconductor wafers.
 * * *
 
 ## Contents
-1. Development time
+1. Development time   
 2. Info
 3. Collaborators
 4. Project
@@ -17,8 +17,8 @@ This software can analyze mesured data of semiconductor wafers.
 * * *
 
 ## Info
-- python
-- 
+- `python 3.9`
+- `Windows 11`
 * * *
 
 ## Collaborators
@@ -49,3 +49,8 @@ This software can analyze mesured data of semiconductor wafers.
 - matplotlib
 - sklearn
 - pandas
+
+To install all requirements, use the following command.   
+```
+pip install -r requirements.txt
+```
